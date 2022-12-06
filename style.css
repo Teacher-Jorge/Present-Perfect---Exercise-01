@@ -11,7 +11,7 @@
     justify-content: center;
     font-family: 'Bangers';
     font-size: 30px;
-    color: rgb(255, 115, 0);
+    color: rgb(221, 0, 210);
     text-shadow: 1px 1px 2px black;
     margin: 10px 10px;
 }
@@ -30,7 +30,7 @@ grid-template-columns: 90% 10%;
 }
 
 .AB {
-    font-size: 20px;
+    font-size: 22px;
     color: rgb(192, 0, 182);
 }
 
