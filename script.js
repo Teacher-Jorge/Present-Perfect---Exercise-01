@@ -8,10 +8,10 @@ btn1Ever.addEventListener('click', function() {
     let audio = document.getElementById('click')
     audio.play()
     word1.innerHTML = 'ever'
+    word1.style.color ='olivegreen'
     let check1 = document.getElementById('check1')
     check1.style.visibility = 'visible'
     btn1Ever.style.background = 'green'
-    word1.style.color ='olivegreen'
     btn1Never.disabled = 'true'
     btn1Ever.disabled = 'true'
     btn1Always.disabled = 'true'
@@ -45,10 +45,10 @@ btn2Have.addEventListener('click', function() {
     let audio = document.getElementById('click')
     audio.play()
     word2.innerHTML = 'Have'
+    word2.style.color ='olivegreen'
     let check2 = document.getElementById('check2')
     check2.style.visibility = 'visible'
     btn2Have.style.background = 'green'
-    word2.style.color ='olivegreen'
     btn2Have.disabled = 'true'
     btn2Has.disabled = 'true'
     btn2Had.disabled = 'true'
@@ -82,10 +82,10 @@ btn3Went.addEventListener('click', function() {
     let audio = document.getElementById('click')
     audio.play()
     word3.innerHTML = 'Went'
+    word3.style.color ='olivegreen'
     let check3 = document.getElementById('check3')
     check3.style.visibility = 'visible'
     btn3Went.style.background = 'green'
-    word3.style.color ='olivegreen'
     btn3Went.disabled = 'true'
     btn3Go.disabled = 'true'
     btn3Was.disabled = 'true'
@@ -119,10 +119,10 @@ btn4Was.addEventListener('click', function() {
     let audio = document.getElementById('click')
     audio.play()
     word4.innerHTML = 'Was'
+    word4.style.color ='olivegreen'
     let check4 = document.getElementById('check4')
     check4.style.visibility = 'visible'
     btn4Was.style.background = 'green'
-    word4.style.color ='olivegreen'
     btn4Was.disabled = 'true'
     btn4Is.disabled = 'true'
     btn4Am.disabled = 'true'
@@ -156,10 +156,10 @@ btn5Had.addEventListener('click', function() {
     let audio = document.getElementById('click')
     audio.play()
     word5.innerHTML = 'Had'
+    word5.style.color ='olivegreen'
     let check5 = document.getElementById('check5')
     check5.style.visibility = 'visible'
     btn5Had.style.background = 'green'
-    word5.style.color ='olivegreen'
     btn5Had.disabled = 'true'
     btn5Has.disabled = 'true'
     btn5Have.disabled = 'true'
